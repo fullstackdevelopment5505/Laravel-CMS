@@ -1,0 +1,11 @@
+{
+    "name": "devdojo/calculator",
+    "authors": [
+        {
+            "name": "Kaushik Parmar",
+            "email": "parmarkaushik15@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

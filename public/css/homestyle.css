@@ -1,0 +1,29 @@
+.header-img img {
+    width: 25%;
+    display: block;
+    margin: auto;
+}
+body.home-two {
+    background: linear-gradient(45deg, #3095ce, #62dffd);
+    padding: 10%;
+    color: white;
+    height: 100vh;
+    vertical-align: middle;
+    text-align: center;
+    display: table-cell;
+    flex-direction: row-reverse;
+}
+.header-img a{
+    border-radius: 30px;
+    color: black;
+    background-color: #ffffff;
+    border-color: #383838;
+}
+.header-img h4 {
+    font-size: 32px;
+}
+.btn-primary {
+    color: black;
+    background-color: #ffffff;
+    border-color: #383838;
+}
